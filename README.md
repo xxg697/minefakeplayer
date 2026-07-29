@@ -1,0 +1,2 @@
+# minefakeplayer
+我的世界minecraft假人机器人进服软件,通过封装了mineflayer API 直接填写配置一键启动
